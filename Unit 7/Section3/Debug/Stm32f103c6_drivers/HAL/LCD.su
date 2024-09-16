@@ -1,0 +1,10 @@
+LCD.c:16:6:_delay_ms	24	static
+LCD.c:23:6:LCD_voidSendCMD	24	static
+LCD.c:65:6:LCD_voidWriteChar	24	static
+LCD.c:101:6:LCD_voidLCDInit	16	static
+LCD.c:149:6:LCD_voidGoTo	16	static
+LCD.c:164:6:LCD_ClrLCD	8	static
+LCD.c:169:6:LCD_voidWriteStrig	24	static
+LCD.c:179:6:LCD_voidWriteNum	24	static
+LCD.c:199:6:LCD_voidSaveCustomChar	24	static
+LCD.c:211:6:LCD_voidWriteCustomChar	16	static

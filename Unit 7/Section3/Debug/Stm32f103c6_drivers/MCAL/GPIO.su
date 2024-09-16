@@ -1,0 +1,10 @@
+GPIO.c:9:9:Get_CRLH_Position	16	static
+GPIO.c:85:6:MCAL_GPIO_init	32	static
+GPIO.c:126:6:MCAL_GPIO_DeInit	16	static
+GPIO.c:152:9:MCAL_GPIO_ReadPin	16	static
+GPIO.c:168:10:MCAL_GPIO_ReadPort	24	static
+GPIO.c:182:6:MCAL_GPIO_WritePin	16	static
+GPIO.c:198:6:MCAL_GPIO_WritePort	16	static
+GPIO.c:202:6:MCAL_GPIO_write_high_nibble	16	static
+GPIO.c:216:6:MCAL_GPIO_TogglePin	16	static
+GPIO.c:227:9:MCAL_GPIO_LockPin	24	static
