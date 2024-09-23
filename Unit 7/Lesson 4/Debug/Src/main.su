@@ -1,0 +1,4 @@
+main.c:26:6:Clock_Init	4	static
+main.c:32:6:EXTI9PB9_ISR	8	static
+main.c:40:6:EXTI8PB8_ISR	8	static
+main.c:48:5:main	32	static
